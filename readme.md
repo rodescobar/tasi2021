@@ -8,3 +8,10 @@
 ### Aula 01 06/08/2021
 - Conhencedo o React Native
 - Trabalhando com FLEX e CSS
+
+### Aula 02 13/08/2021
+- Trabalhando com o botão TouchableHighlight
+- Trabalhando com funções
+- Exercício para transformar Views da calculadora em TouchableHighlight
+- Iniciando o funcionamento da calculadora
+
