@@ -15,3 +15,8 @@
 - Exercício para transformar Views da calculadora em TouchableHighlight
 - Iniciando o funcionamento da calculadora
 
+### Aula 03 20/08/2021
+- Finalizando a calculadora
+- Lógica para trabalhar com sinais e alteração de dados
+
+- Explicação: diferença entre variáveis de estado e variáveis comuns
