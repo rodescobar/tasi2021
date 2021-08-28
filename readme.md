@@ -24,6 +24,7 @@
 ### Aula 04 27/08/2021
 - Troca de informações entre Componentes 
 > Pai -> Filho
+
 > Filho -> Pai
 
 - Reutilização de componentes
