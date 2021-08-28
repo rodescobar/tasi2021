@@ -1,0 +1,85 @@
+[
+  {
+    "nome": "Maria",
+    "telefone": 23123131,
+    "ativo": true
+  },
+  {
+    "nome": "Aline",
+    "telefone": 1111,
+    "ativo": false
+  },
+  {
+    "nome": "Camila",
+    "telefone": 444444,
+    "ativo": true
+  },
+  {
+    "nome": "Roberta",
+    "telefone": 10000,
+    "ativo": false
+  },
+  {
+    "nome": "Maria",
+    "telefone": 23123131,
+    "ativo": true
+  },
+  {
+    "nome": "Aline",
+    "telefone": 1111,
+    "ativo": false
+  },
+  {
+    "nome": "Camila",
+    "telefone": 444444,
+    "ativo": true
+  },
+  {
+    "nome": "Roberta",
+    "telefone": 10000,
+    "ativo": false
+  },  {
+    "nome": "Maria",
+    "telefone": 23123131,
+    "ativo": true
+  },
+  {
+    "nome": "Aline",
+    "telefone": 1111,
+    "ativo": false
+  },
+  {
+    "nome": "Camila",
+    "telefone": 444444,
+    "ativo": true
+  },
+  {
+    "nome": "Roberta",
+    "telefone": 10000,
+    "ativo": false
+  },  {
+    "nome": "Maria",
+    "telefone": 23123131,
+    "ativo": true
+  },
+  {
+    "nome": "Aline",
+    "telefone": 1111,
+    "ativo": false
+  },
+  {
+    "nome": "Camila",
+    "telefone": 444444,
+    "ativo": true
+  },
+  {
+    "nome": "Roberta",
+    "telefone": 10000,
+    "ativo": false
+  },  
+  {
+    "nome": "Cidinéia",
+    "telefone": 888888,
+    "ativo": true
+  }
+]

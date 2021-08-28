@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Confianca",
+    "telefone": 11111111111,
+    "ativo": true
+  },
+  {
+    "nome": "Servimed",
+    "telefone": 22222222222,
+    "ativo": false
+  },
+  {
+    "nome": "Zé da esquina",
+    "telefone": 3333333333,
+    "ativo": true
+  }
+ 
+]
