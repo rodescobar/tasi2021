@@ -30,3 +30,10 @@
 - Reutilização de componentes
 
 - Trabalho bonus para alunos participantes
+
+### Aula 05 03/09/2021
+- Consumo de dados REST API com axios do site jsonplaceholder
+> npm install --save axios
+
+- Criação de tabela com dados recebidos
+- Filtro de dados
