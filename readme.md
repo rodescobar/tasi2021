@@ -37,3 +37,17 @@
 
 - Criação de tabela com dados recebidos
 - Filtro de dados
+
+### Aula 06 10/09/2021
+- Utilizando o react-native-paper
+- Entendendo seu funionamento
+> npm install --save react-native-paper
+
+-Caso as imagens de icones não apareçam, altere seu package.json para
+> "react-native-paper": "*"
+
+### Aula 06 10/09/2021 - Trabalho Avaliativo
+- Data de entrega: 17/09/2021
+- 2,00 pontos na média
+- Individual
+- Entrega através de link do snack.expo.io
