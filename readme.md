@@ -43,8 +43,10 @@
 - Entendendo seu funionamento
 > npm install --save react-native-paper
 
--Caso as imagens de icones não apareçam, altere seu package.json para
+- Caso as imagens de icones não apareçam, altere seu package.json para
 > "react-native-paper": "*"
+
+[Aplicação criada em aula](https://snack.expo.dev/@rodescobar/9f6c12)
 
 ### Aula 06 10/09/2021 - Trabalho Avaliativo
 - Data de entrega: 17/09/2021
