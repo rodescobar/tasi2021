@@ -15,6 +15,8 @@
 - Exercício para transformar Views da calculadora em TouchableHighlight
 - Iniciando o funcionamento da calculadora
 
+[Aplicação construída](https://snack.expo.dev/@rodescobar/95fe58)
+
 ### Aula 03 20/08/2021
 - Finalizando a calculadora
 - Lógica para trabalhar com sinais e alteração de dados
@@ -37,6 +39,8 @@
 
 - Criação de tabela com dados recebidos
 - Filtro de dados
+
+[Aplicação construída](https://snack.expo.dev/@rodescobar/e51700)
 
 ### Aula 06 10/09/2021
 - Utilizando o react-native-paper
