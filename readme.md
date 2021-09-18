@@ -67,6 +67,6 @@
 
 ### Aula 07 17/09/2021 - Trabalho Avaliativo
 - Data de entrega: 24/09/2021
-- Pontos no coração
+- 2,0 pontos na média
 - Individual
 - Entrega através de link do snack.expo.io
