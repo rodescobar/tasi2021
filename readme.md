@@ -57,3 +57,16 @@
 - 2,00 pontos na média
 - Individual
 - Entrega através de link do snack.expo.io
+
+### Aula 07 17/09/2021
+- Trabalhando com componentes
+- React-Navigation
+
+[Aplicação criada em aula](https://snack.expo.dev/@rodescobar/2021-09-17)
+
+
+### Aula 07 17/09/2021 - Trabalho Avaliativo
+- Data de entrega: 24/09/2021
+- Pontos no coração
+- Individual
+- Entrega através de link do snack.expo.io
