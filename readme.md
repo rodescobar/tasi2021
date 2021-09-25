@@ -70,3 +70,14 @@
 - 2,0 pontos na média
 - Individual
 - Entrega através de link do snack.expo.io
+
+### Aula 08 24/09/2021
+- Trabalhando com o Bottom Tab Navigator
+
+[Aplicação criada em aula](https://snack.expo.dev/@rodescobar/f6d080)
+
+### Aula 08 24/09/2021 - Trabalho Avaliativo
+- Data de entrega: 05/10/2021
+- 2,0 pontos na média
+- Individual
+- Entrega através de link do snack.expo.io
