@@ -84,7 +84,9 @@
 
 ### Aula 09 01/10/2021 - Stack Navigator, Drawer Navigator e Bottom Tab Navigator
 - Utilização e modificação visual do componente DrawerNavigator (react-navigation v6)
+
 [Exemplo](https://snack.expo.dev/@rodescobar/0e7acb)
 
 - Utilizando drawer, stack e bottom tab navigator para a navegação entre telas
+
 [Exemplo](https://snack.expo.dev/@rodescobar/6b435c)
