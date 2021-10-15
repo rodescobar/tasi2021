@@ -90,3 +90,18 @@
 - Utilizando drawer, stack e bottom tab navigator para a navegação entre telas
 
 [Exemplo](https://snack.expo.dev/@rodescobar/6b435c)
+
+### Aula 10 08/10/2021 - MapView e Markers
+- (PROFESSOR) Adicionar conteúdo
+
+### Aula 10 08/10/2021 - Trabalho
+- (PROFESSOR) Adicionar conteúdo
+
+### Aula 11 15/10/2021 - Math.Random
+- Utilização de MathRandom
+
+[Exemplo](https://snack.expo.dev/@rodescobar/mathrandom)
+
+
+### Aula 11 15/10/2021 - Trabalho
+- Trabalho, utilização de: axios, MapView e interpretação de documentação online
